@@ -13,7 +13,7 @@ I'm a Backend-Developer from Pokhara, Nepal. I graduated Bachelors in Computer S
  
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dineshpokhrel/)](https://www.linkedin.com/in/dineshpokhrel/)
-[![Instagram Badge](https://www.linkedin.com/in/sagar-poudel-99352a292/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sagar_poudel7/profilecard/?igsh=eTA5bWZ3NDhvczdq/)](https://www.instagram.com/dineshp0khrel/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/sagarpoudel.poudel.9/ "Contact on Facebook")
 </p>
 
