@@ -55,6 +55,7 @@ src="https://img.shields.io/github/followers/Devendrapoudel?logo=github&style=fo
 ### 🏆 My Github Trophies
   <a href="https://github.com/Devendrapoudel?tab=repositories"><img width="800px" src="https://github-profile-trophy.vercel.app/?username=Devendrapoudel&column=8&theme=discord&no-frame=true"/></a>
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Devendrapoudel&color=green)
+
 <!-- ### Languages and Tools
  -->
 <!-- <img align="left" src="https://simpleicons.org/icons/laravel.svg" alt="Laravel" height="40px" />
@@ -66,5 +67,6 @@ src="https://img.shields.io/github/followers/Devendrapoudel?logo=github&style=fo
 <br /> -->
 #
 <div align="center">
+ 
 ### Show some ❤️ by starring some of the repositories!
 </div>
