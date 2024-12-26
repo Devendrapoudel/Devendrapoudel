@@ -8,7 +8,7 @@ I'm a Backend-Developer from Pokhara, Nepal. I graduated Bachelors in Computer S
 
 * 🌍  I'm based in Pokhara, Nepal
 * ✉️  You can contact me at poudelsagar011@gmail.com
-* 🧠  I'm learning Php
+* 🧠  I'm learning Php and javascript
 <p align="center">
  
 
@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/Devendrapoudel?logo=github&style=fo
 ![](https://skillicons.dev/icons?i=typescript,tailwind,dynamodb,express,git,graphql,vercel,js,ts,netlify,postgres,vscode,vercel&perline=20) 
 
 
-### 👨‍💻 I love listening to Music on my leasure time. 🎶
+### 👨‍💻 I love listening music in my leasure time. 🎶
 
 <a href="https://github.com/Dineshpokhrel" target="_blank"><img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
 
