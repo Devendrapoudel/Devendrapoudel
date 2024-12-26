@@ -19,7 +19,7 @@ I'm a Backend-Developer from Pokhara, Nepal. I graduated Bachelors in Computer S
 </p>
 
 <a href="https://www.github.com/Devendrapoudel" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Dineshpokhrel?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+src="https://img.shields.io/github/followers/Devendrapoudel?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Dineshpokhrel&color=blue)
 
 
@@ -37,7 +37,7 @@ src="https://img.shields.io/github/followers/Dineshpokhrel?logo=github&style=for
 
 ### You can find my stuff here :leaves:
 
-- My Personal Website :yum: [Visit](https://github.com/Dineshpokhrel)
+- My Personal Website :yum: [Visit](https://github.com/Devendrapoudel)
 
 
 ## ⚡ Technologies
@@ -77,7 +77,7 @@ src="https://img.shields.io/github/followers/Dineshpokhrel?logo=github&style=for
 
   <a href="https://github.com/Devendrapoudel?tab=repositories"><img width="800px" src="https://github-profile-trophy.vercel.app/?username=Devendrapoudel&column=8&theme=discord&no-frame=true"/></a>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=Dineshpokhrel&color=green)
+![Visitor Badge](https://komarev.com/ghpvc/?username=Devendrapoudel&color=green)
 
 <!-- ### Languages and Tools
  -->
