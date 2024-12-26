@@ -61,11 +61,11 @@ src="https://img.shields.io/github/followers/Dineshpokhrel?logo=github&style=for
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devendrapoudel&theme=algolia&hide_border=true" width="700"/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dineshpokhrel&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dineshpokhrel&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dineshpokhrel&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dineshpokhrel&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dineshpokhrel&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devendrapoudel&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devendrapoudel&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Devendrapoudel&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devendrapoudel&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Devendrapoudel&theme=github_dark&utcOffset=8)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Dineshpokhrel&count_private=true&show_icons=true&include_all_commits=true)
