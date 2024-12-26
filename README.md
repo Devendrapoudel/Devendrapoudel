@@ -68,14 +68,14 @@ src="https://img.shields.io/github/followers/Dineshpokhrel?logo=github&style=for
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Devendrapoudel&theme=github_dark&utcOffset=8)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Dineshpokhrel&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Devendrapoudel&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshpokhrel&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devendrapoudel&hide=TeX&layout=compact)
 
 ### 🏆 My Github Trophies
 
 
-  <a href="https://github.com/Dineshpokhrel?tab=repositories"><img width="800px" src="https://github-profile-trophy.vercel.app/?username=Dineshpokhrel&column=8&theme=discord&no-frame=true"/></a>
+  <a href="https://github.com/Devendrapoudel?tab=repositories"><img width="800px" src="https://github-profile-trophy.vercel.app/?username=Devendrapoudel&column=8&theme=discord&no-frame=true"/></a>
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Dineshpokhrel&color=green)
 
