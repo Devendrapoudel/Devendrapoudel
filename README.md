@@ -18,7 +18,7 @@ I'm a Backend-Developer from Pokhara, Nepal. I graduated Bachelors in Computer S
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/sagarpoudel.poudel.9/ "Contact on Facebook")
 </p>
 
-<a href="https://www.github.com/Dineshpokhrel" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/Devendrapoudel" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Dineshpokhrel?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Dineshpokhrel&color=blue)
 
