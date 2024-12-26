@@ -20,7 +20,7 @@ I'm a Backend-Developer from Pokhara, Nepal. I graduated Bachelors in Computer S
 
 <a href="https://www.github.com/Devendrapoudel" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Devendrapoudel?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
-![Visitor Badge](https://komarev.com/ghpvc/?username=Dineshpokhrel&color=blue)
+![Visitor Badge](https://komarev.com/ghpvc/?username=Devendrapoudel&color=blue)
 
 
 <h3 align="left">Languages and Tools:</h3>
