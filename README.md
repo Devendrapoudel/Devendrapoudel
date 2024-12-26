@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Backend-Developer from Pokhara, Nepal. I graduated Bachelors in Computer Science and Information Technology from Mount Annapurna Campus, Nepal affiliated to Tribhuvan University. I like building new stuff and working with other people.
 
 * 🌍  I'm based in Pokhara, Nepal
-* ✉️  You can contact me at [poudelsagar011@gmail.com]
+* ✉️  You can contact me at poudelsagar011@gmail.com
 * 🧠  I'm learning Php
 <p align="center">
  
