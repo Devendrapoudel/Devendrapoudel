@@ -12,9 +12,9 @@ I'm a Backend-Developer from Pokhara, Nepal. I graduated Bachelors in Computer S
 <p align="center">
  
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagar-poudel-99352a292/)]
+![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagar-poudel-99352a292/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:poudelsagar011@gmail.com)](mailto:poudelsagar0111@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sagar_poudel7/profilecard/?igsh=eTA5bWZ3NDhvczdq/)
+![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sagar_poudel7/profilecard/?igsh=eTA5bWZ3NDhvczdq/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/sagarpoudel.poudel.9/ "Contact on Facebook")
 </p>
 
