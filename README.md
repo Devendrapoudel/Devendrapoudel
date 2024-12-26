@@ -59,7 +59,7 @@ src="https://img.shields.io/github/followers/Dineshpokhrel?logo=github&style=for
 ### 👨 My Github Activity
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dineshpokhrel&theme=algolia&hide_border=true" width="700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devendrapoudel&theme=algolia&hide_border=true" width="700"/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dineshpokhrel&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dineshpokhrel&theme=github_dark)
